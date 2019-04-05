@@ -9,7 +9,7 @@ target 'SDKFake' do
   use_frameworks!
 
   # Pods for SDKFake
-  pod 'BioCatchSDK', '> 2.3.6.1444'
+  pod 'BioCatchSDK', '2.3.6.1444'
 
   target 'SDKFakeTests' do
     inherit! :search_paths
