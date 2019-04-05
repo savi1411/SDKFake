@@ -10,7 +10,7 @@
 		0FF0FE2A2257B2F700A34273 /* SDKFake.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FF0FE202257B2F700A34273 /* SDKFake.framework */; };
 		0FF0FE2F2257B2F700A34273 /* SDKFakeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF0FE2E2257B2F700A34273 /* SDKFakeTests.m */; };
 		0FF0FE312257B2F700A34273 /* SDKFake.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FF0FE232257B2F700A34273 /* SDKFake.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0FF0FE3D2257B54200A34273 /* IMBioCatchManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FF0FE3B2257B54200A34273 /* IMBioCatchManager.h */; };
+		0FF0FE3D2257B54200A34273 /* IMBioCatchManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FF0FE3B2257B54200A34273 /* IMBioCatchManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0FF0FE3E2257B54200A34273 /* IMBioCatchManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF0FE3C2257B54200A34273 /* IMBioCatchManager.m */; };
 		9E8D8ABE3242E983CD4C6109 /* Pods_SDKFakeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 605E49FCBEEB6A906781DCFA /* Pods_SDKFakeTests.framework */; };
 		BDB5EAC94B6BBC38DE3283DC /* Pods_SDKFake.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB67C09D3924D8A72744C6C4 /* Pods_SDKFake.framework */; };

@@ -32,7 +32,7 @@ s.dependency 'BioCatchSDK', '> 2.3.6.1444'
 s.source_files = "SDKFake/**/*.{h,m,c}"
 
 # 9
-s.resources = "SDKFake/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+# s.resources = "SDKFake/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
