@@ -1,0 +1,16 @@
+PODS:
+  - BioCatchSDK (2.6.2141)
+
+DEPENDENCIES:
+  - BioCatchSDK (> 2.3.6.1444)
+
+SPEC REPOS:
+  https://biocatchdev.jfrog.io/biocatchdev/api/pods/cocoapods-release:
+    - BioCatchSDK
+
+SPEC CHECKSUMS:
+  BioCatchSDK: 1bf77dcd4db02e0b3483cde765c3a94e86c56588
+
+PODFILE CHECKSUM: 0cc39da3708f5459cd7c44a519f0cf18216155ae
+
+COCOAPODS: 1.6.0

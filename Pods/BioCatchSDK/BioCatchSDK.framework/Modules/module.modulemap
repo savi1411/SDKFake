@@ -1,0 +1,11 @@
+framework module BioCatchSDK {
+  umbrella header "BioCatchSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module BioCatchSDK.Swift {
+    header "BioCatchSDK-Swift.h"
+    requires objc
+}

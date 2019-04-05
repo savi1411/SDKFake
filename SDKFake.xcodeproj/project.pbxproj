@@ -10,6 +10,10 @@
 		0FF0FE2A2257B2F700A34273 /* SDKFake.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FF0FE202257B2F700A34273 /* SDKFake.framework */; };
 		0FF0FE2F2257B2F700A34273 /* SDKFakeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF0FE2E2257B2F700A34273 /* SDKFakeTests.m */; };
 		0FF0FE312257B2F700A34273 /* SDKFake.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FF0FE232257B2F700A34273 /* SDKFake.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0FF0FE3D2257B54200A34273 /* IMBioCatchManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FF0FE3B2257B54200A34273 /* IMBioCatchManager.h */; };
+		0FF0FE3E2257B54200A34273 /* IMBioCatchManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF0FE3C2257B54200A34273 /* IMBioCatchManager.m */; };
+		9E8D8ABE3242E983CD4C6109 /* Pods_SDKFakeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 605E49FCBEEB6A906781DCFA /* Pods_SDKFakeTests.framework */; };
+		BDB5EAC94B6BBC38DE3283DC /* Pods_SDKFake.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB67C09D3924D8A72744C6C4 /* Pods_SDKFake.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +33,14 @@
 		0FF0FE292257B2F700A34273 /* SDKFakeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SDKFakeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FF0FE2E2257B2F700A34273 /* SDKFakeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SDKFakeTests.m; sourceTree = "<group>"; };
 		0FF0FE302257B2F700A34273 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FF0FE3B2257B54200A34273 /* IMBioCatchManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMBioCatchManager.h; sourceTree = "<group>"; };
+		0FF0FE3C2257B54200A34273 /* IMBioCatchManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMBioCatchManager.m; sourceTree = "<group>"; };
+		605E49FCBEEB6A906781DCFA /* Pods_SDKFakeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SDKFakeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F1A9C933878536FEDA92B2B /* Pods-SDKFake.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDKFake.release.xcconfig"; path = "Target Support Files/Pods-SDKFake/Pods-SDKFake.release.xcconfig"; sourceTree = "<group>"; };
+		99681FB0B6DE9960C05D7ACF /* Pods-SDKFakeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDKFakeTests.release.xcconfig"; path = "Target Support Files/Pods-SDKFakeTests/Pods-SDKFakeTests.release.xcconfig"; sourceTree = "<group>"; };
+		AB67C09D3924D8A72744C6C4 /* Pods_SDKFake.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SDKFake.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2ABF0F2E6F5753C46F698F7 /* Pods-SDKFake.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDKFake.debug.xcconfig"; path = "Target Support Files/Pods-SDKFake/Pods-SDKFake.debug.xcconfig"; sourceTree = "<group>"; };
+		E3A062CB498FDBFE247D0913 /* Pods-SDKFakeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SDKFakeTests.debug.xcconfig"; path = "Target Support Files/Pods-SDKFakeTests/Pods-SDKFakeTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDB5EAC94B6BBC38DE3283DC /* Pods_SDKFake.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +57,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FF0FE2A2257B2F700A34273 /* SDKFake.framework in Frameworks */,
+				9E8D8ABE3242E983CD4C6109 /* Pods_SDKFakeTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,6 +70,8 @@
 				0FF0FE222257B2F700A34273 /* SDKFake */,
 				0FF0FE2D2257B2F700A34273 /* SDKFakeTests */,
 				0FF0FE212257B2F700A34273 /* Products */,
+				DC52BB946B305A436D3FEA97 /* Pods */,
+				FE74DEE73620119A3619F03F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -71,6 +87,7 @@
 		0FF0FE222257B2F700A34273 /* SDKFake */ = {
 			isa = PBXGroup;
 			children = (
+				0FF0FE3A2257B52600A34273 /* BioCatch */,
 				0FF0FE232257B2F700A34273 /* SDKFake.h */,
 				0FF0FE242257B2F700A34273 /* Info.plist */,
 			);
@@ -86,6 +103,35 @@
 			path = SDKFakeTests;
 			sourceTree = "<group>";
 		};
+		0FF0FE3A2257B52600A34273 /* BioCatch */ = {
+			isa = PBXGroup;
+			children = (
+				0FF0FE3B2257B54200A34273 /* IMBioCatchManager.h */,
+				0FF0FE3C2257B54200A34273 /* IMBioCatchManager.m */,
+			);
+			path = BioCatch;
+			sourceTree = "<group>";
+		};
+		DC52BB946B305A436D3FEA97 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B2ABF0F2E6F5753C46F698F7 /* Pods-SDKFake.debug.xcconfig */,
+				6F1A9C933878536FEDA92B2B /* Pods-SDKFake.release.xcconfig */,
+				E3A062CB498FDBFE247D0913 /* Pods-SDKFakeTests.debug.xcconfig */,
+				99681FB0B6DE9960C05D7ACF /* Pods-SDKFakeTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		FE74DEE73620119A3619F03F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AB67C09D3924D8A72744C6C4 /* Pods_SDKFake.framework */,
+				605E49FCBEEB6A906781DCFA /* Pods_SDKFakeTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -94,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FF0FE312257B2F700A34273 /* SDKFake.h in Headers */,
+				0FF0FE3D2257B54200A34273 /* IMBioCatchManager.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -104,6 +151,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0FF0FE342257B2F700A34273 /* Build configuration list for PBXNativeTarget "SDKFake" */;
 			buildPhases = (
+				3CD66FB38DC356CD736CF1DE /* [CP] Check Pods Manifest.lock */,
 				0FF0FE1B2257B2F700A34273 /* Headers */,
 				0FF0FE1C2257B2F700A34273 /* Sources */,
 				0FF0FE1D2257B2F700A34273 /* Frameworks */,
@@ -122,6 +170,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0FF0FE372257B2F700A34273 /* Build configuration list for PBXNativeTarget "SDKFakeTests" */;
 			buildPhases = (
+				C86C81486E253B6890F587E1 /* [CP] Check Pods Manifest.lock */,
 				0FF0FE252257B2F700A34273 /* Sources */,
 				0FF0FE262257B2F700A34273 /* Frameworks */,
 				0FF0FE272257B2F700A34273 /* Resources */,
@@ -188,11 +237,59 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		3CD66FB38DC356CD736CF1DE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SDKFake-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C86C81486E253B6890F587E1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SDKFakeTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0FF0FE1C2257B2F700A34273 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FF0FE3E2257B54200A34273 /* IMBioCatchManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,6 +432,7 @@
 		};
 		0FF0FE352257B2F700A34273 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B2ABF0F2E6F5753C46F698F7 /* Pods-SDKFake.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
@@ -359,6 +457,7 @@
 		};
 		0FF0FE362257B2F700A34273 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6F1A9C933878536FEDA92B2B /* Pods-SDKFake.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
@@ -383,6 +482,7 @@
 		};
 		0FF0FE382257B2F700A34273 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E3A062CB498FDBFE247D0913 /* Pods-SDKFakeTests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = MYTQ5VQ755;
@@ -400,6 +500,7 @@
 		};
 		0FF0FE392257B2F700A34273 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 99681FB0B6DE9960C05D7ACF /* Pods-SDKFakeTests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = MYTQ5VQ755;

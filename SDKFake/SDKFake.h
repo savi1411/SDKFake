@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "IMBioCatchManager.h"
 
 //! Project version number for SDKFake.
 FOUNDATION_EXPORT double SDKFakeVersionNumber;
