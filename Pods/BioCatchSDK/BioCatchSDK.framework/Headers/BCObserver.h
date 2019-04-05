@@ -16,11 +16,11 @@
 @end
 
 @interface BCObserver : NSObject {
+    NSMutableDictionary *observerDictionaries; // object being observed is the object, keyPath is the key
     dispatch_queue_t queue;
 }
 
 @property (nonatomic, weak) _Nullable id<BCObserverProtocol>delegate;
-@property (nonatomic, retain)  NSMapTable * _Nullable observerDictionaries; // object being observed is the object, keyPath is the key
 
 - (void) observeObject:(NSObject* _Nonnull)object ForChange:(NSString* _Nonnull)keyPath;
 - (void) StopObservingObject:(NSObject* _Nonnull)object ForKeyPath:(NSString* _Nonnull)keyPath;

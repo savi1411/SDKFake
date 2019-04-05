@@ -13,7 +13,6 @@
 @protocol BCProxyTextInputProtocol
 
 - (void) keyWasPressed:(NSString*)key OnObject:(UIView*)object;
-- (void) onTextChange:(NSString*)value OnObject:(UIView*)object;
 
 @end
 

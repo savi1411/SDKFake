@@ -21,8 +21,4 @@ FOUNDATION_EXPORT const unsigned char BioCatchSDKVersionString[];
 #import "CommonCrypto.h"
 #import "DarwinNotificationsManager.h"
 
-#import "WebViewJavascriptBridge.h"
-#import "WebViewJavascriptBridgeBase.h"
-#import "WKWebViewJavascriptBridge.h"
-#import "WebViewJavascriptBridge_JS.h"
 

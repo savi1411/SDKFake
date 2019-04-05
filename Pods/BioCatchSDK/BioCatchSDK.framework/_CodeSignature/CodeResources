@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BCObserver.h</key>
 		<data>
-		CO21aF5tyeujiozKXrtVBpXf0jo=
+		cG2RnvzT1EGS9wNsFSTHZKbl+VE=
 		</data>
 		<key>Headers/BCProxy.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/BioCatchSDK-Swift.h</key>
 		<data>
-		AnqwyrXYaQ4verduf6lj4JA7E70=
+		rmEAl+QZpCYM2uAsHwPflnBHbMc=
 		</data>
 		<key>Headers/BioCatchSDK.h</key>
 		<data>
-		9CLLUZnkTMbVPfq4g1xaLzJYrgo=
+		oUItkFuFk8vGRtsDzNFAbsF7tfY=
 		</data>
 		<key>Headers/CommonCrypto.h</key>
 		<data>
@@ -30,59 +30,31 @@
 		</data>
 		<key>Headers/TextInputDelegateProxy.h</key>
 		<data>
-		FrhF+M6OgPCsGktlY/jMnkyNa/c=
-		</data>
-		<key>Headers/WKWebViewJavascriptBridge.h</key>
-		<data>
-		5SNsRgTZnKcESBlc+/G5sXGfhI8=
-		</data>
-		<key>Headers/WebViewJavascriptBridge.h</key>
-		<data>
-		DtrYE/D4Ae3F6AiqJ+f/0hssRls=
-		</data>
-		<key>Headers/WebViewJavascriptBridgeBase.h</key>
-		<data>
-		X17D6JlybmfibqMLH+W6YJXHoY0=
-		</data>
-		<key>Headers/WebViewJavascriptBridge_JS.h</key>
-		<data>
-		2+5a8e4Jt5iTSyXK1AHzEVTLqvw=
+		GF4+LDX8e1K9BtBjhMfqLxS4csQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fmDjWfairpQ4gR3UXm2ISkzWxKk=
+		Muak5u5qPpFVRvUv1RlLlgmSKW0=
 		</data>
 		<key>Modules/BioCatchSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
-		Yhj2FXkw3aRnO8gqoNSuNj0sBrs=
+		kl6owfjXCZkOPAKrTpJtyBQscNQ=
 		</data>
 		<key>Modules/BioCatchSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		AHbT8Fcs7HIH5Jze/AzZTf+vdCE=
+		MRsZ+EDHbKY6KDUHNVaCUfCSXn0=
 		</data>
 		<key>Modules/BioCatchSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		/u+39XDHWfbtXGovXkqSlRF/4JI=
+		OgXoiR23nsochqFcJTutHkew7EE=
 		</data>
 		<key>Modules/BioCatchSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ZiCXSCEDjlDQFDwGEnYygsiwh4E=
+		hiHiE/HBEtDxH1JINgUPzBfyHVc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Q1bhUutk6U1GBTNopL/Ey857l4c=
-		</data>
-		<key>NativeCommunicator.js</key>
-		<data>
-		RkUoiNWH2HB2sIkzxOciPTlLieE=
-		</data>
-		<key>jsBridge.js</key>
-		<data>
-		4o4dKtzpShkANwdW6EBDO0G/ApI=
-		</data>
-		<key>slaveWrappedNotBabeled.js</key>
-		<data>
-		7u6Cd9K7w9t+0iNeQKevOhuf1W8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -91,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CO21aF5tyeujiozKXrtVBpXf0jo=
+			cG2RnvzT1EGS9wNsFSTHZKbl+VE=
 			</data>
 			<key>hash2</key>
 			<data>
-			xsVCr3q/qpHlcXlfoWP/Kd989Mvg5nD21nXUYY2pgOY=
+			CtHK/KVVVOYpXiw3AvbNZF5rMK8rA+tPbsfuoacXsk0=
 			</data>
 		</dict>
 		<key>Headers/BCProxy.h</key>
@@ -113,22 +85,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AnqwyrXYaQ4verduf6lj4JA7E70=
+			rmEAl+QZpCYM2uAsHwPflnBHbMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			p9HUxi4kNowJO7eHZczFzpz0TZBvdfUi97Qt9w5u+b8=
+			XUwp8QaVeSB1AXVRuLqY4wb0zc+2trpzB9HqxZYYKJQ=
 			</data>
 		</dict>
 		<key>Headers/BioCatchSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9CLLUZnkTMbVPfq4g1xaLzJYrgo=
+			oUItkFuFk8vGRtsDzNFAbsF7tfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			BRaqpszH0MrpQffOomVcSbpe+AfRvoKWQl7LWnOpzpA=
+			E/uAZBhxb+Y/Ed+VA7a0QHWgZ3PGvQ6w81pzyBLmVAI=
 			</data>
 		</dict>
 		<key>Headers/CommonCrypto.h</key>
@@ -157,99 +129,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FrhF+M6OgPCsGktlY/jMnkyNa/c=
+			GF4+LDX8e1K9BtBjhMfqLxS4csQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gx+WJ46OxOryTcIUnZyuGTi/o3Tx7HP6zGOfSsWG+I4=
-			</data>
-		</dict>
-		<key>Headers/WKWebViewJavascriptBridge.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5SNsRgTZnKcESBlc+/G5sXGfhI8=
-			</data>
-			<key>hash2</key>
-			<data>
-			HYVMtn1E5ei59XCOnMrGJJKsYFXriPt/8zjfZmm9brU=
-			</data>
-		</dict>
-		<key>Headers/WebViewJavascriptBridge.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DtrYE/D4Ae3F6AiqJ+f/0hssRls=
-			</data>
-			<key>hash2</key>
-			<data>
-			nM0HHrlDQERlmUbpcLLy4U62QYfo/pNmk7oWQ7Ht/xI=
-			</data>
-		</dict>
-		<key>Headers/WebViewJavascriptBridgeBase.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X17D6JlybmfibqMLH+W6YJXHoY0=
-			</data>
-			<key>hash2</key>
-			<data>
-			NEoogghgAQ2JharmwydWhzMz1WAhRF29q68S6nxtxX0=
-			</data>
-		</dict>
-		<key>Headers/WebViewJavascriptBridge_JS.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2+5a8e4Jt5iTSyXK1AHzEVTLqvw=
-			</data>
-			<key>hash2</key>
-			<data>
-			LEkzAz6VW8QdKoFtIMjRL2rKg/ApOjv52B12sYk7ZUM=
+			dqbUV0W+FU1q3VuaSxsuhTLGJqtlaWjnbEOLUBbmBm4=
 			</data>
 		</dict>
 		<key>Modules/BioCatchSDK.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Yhj2FXkw3aRnO8gqoNSuNj0sBrs=
+			kl6owfjXCZkOPAKrTpJtyBQscNQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EQ8cM63t1wfOb6PwNmVCneYN7TQLPbHiOMIUtfR2ZeY=
+			V1OsUqFamEOTlEp/KdbePTkt6zBnSXSxnu34r6IGvNE=
 			</data>
 		</dict>
 		<key>Modules/BioCatchSDK.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AHbT8Fcs7HIH5Jze/AzZTf+vdCE=
+			MRsZ+EDHbKY6KDUHNVaCUfCSXn0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cv7AuCjJCrPxwj5r86kPkslHrw12q3bSHPCFQF48bPA=
+			Xz4JbP+seC4Y46UZddptp0eY44MZBAf4j/QKSkCDago=
 			</data>
 		</dict>
 		<key>Modules/BioCatchSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/u+39XDHWfbtXGovXkqSlRF/4JI=
+			OgXoiR23nsochqFcJTutHkew7EE=
 			</data>
 			<key>hash2</key>
 			<data>
-			pEN79EW8ueZk1WxLKy2o6JayGPVJIVmdOFeoH9yfHK0=
+			ul84L9PpqNUnNpKBnuG/RZdcgjGuSFA4jC6hlVlEwls=
 			</data>
 		</dict>
 		<key>Modules/BioCatchSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZiCXSCEDjlDQFDwGEnYygsiwh4E=
+			hiHiE/HBEtDxH1JINgUPzBfyHVc=
 			</data>
 			<key>hash2</key>
 			<data>
-			pdq9jXRZ0kQ13mdxZjiLKoM2kCSvFZ5tWzFk+bOKUZg=
+			wmEV/uQAX/t00u4jtpSa2cTUH5VWk+FZ/Zh1EHz3S0g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -263,43 +191,10 @@
 			kyoxLM9j1cReCW45jpsgHlYnIYHg3dJCsw1ebGB8g5I=
 			</data>
 		</dict>
-		<key>NativeCommunicator.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RkUoiNWH2HB2sIkzxOciPTlLieE=
-			</data>
-			<key>hash2</key>
-			<data>
-			2N++PCYfEi/IMPZHGDDDoyHN23jVUFKx2FgHH1zG5bw=
-			</data>
-		</dict>
-		<key>jsBridge.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4o4dKtzpShkANwdW6EBDO0G/ApI=
-			</data>
-			<key>hash2</key>
-			<data>
-			9id7mOu7Sz8U5uyPcVwpoB1EDAovXlfUzB4mMkJ9ipY=
-			</data>
-		</dict>
-		<key>slaveWrappedNotBabeled.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7u6Cd9K7w9t+0iNeQKevOhuf1W8=
-			</data>
-			<key>hash2</key>
-			<data>
-			KDixRGSn6AvCg4Hf9I5mO39ijIblclsm0EykQtuKQzM=
-			</data>
-		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^.*</key>
+		<key>^</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -330,12 +225,24 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
+		<key>^</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -371,6 +278,13 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
