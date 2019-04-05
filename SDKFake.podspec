@@ -26,7 +26,9 @@ s.source = { :git => "https://github.com/savi1411/SDKFake.git",
 # 7
 s.framework = "UIKit"
 
-s.dependency 'BioCatchSDK', '> 2.3.6.1444'
+s.vendored_frameworks = "SDKFake/SDKFake.framework"
+  
+s.dependency 'BioCatchSDK', '2.3.6.1444'
 
 # 8
 s.source_files = "SDKFake/**/*.{h,m,c}"
